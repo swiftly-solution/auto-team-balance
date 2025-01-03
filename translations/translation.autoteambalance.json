@@ -1,0 +1,10 @@
+{
+    "moved_player": {
+        "en": "You have been moved to {RED}{TEAM} {DEFAULT}because of auto balance",
+        "ro": "You have been moved to {RED}{TEAM} {DEFAULT}because of auto balance"
+    },
+    "moved_general": {
+        "en": "{RED}{NAME} {DEFAULT}has been moved to {RED}{TEAM} {DEFAULT}because of auto balance.",
+        "ro": "{RED}{NAME} {DEFAULT}has been moved to {RED}{TEAM} {DEFAULT}because of auto balance."
+    }
+}
